@@ -32,7 +32,7 @@ import static io.cucumber.junit.platform.engine.Constants.*;
 )
 @ConfigurationParameter(
     key = FEATURES_PROPERTY_NAME,
-    value = "src/test/resources/features/api_login.feature"
+    value = "src/test/resources/features"
 )
 @ConfigurationParameter(
     key = FILTER_TAGS_PROPERTY_NAME,
