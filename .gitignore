@@ -1,0 +1,40 @@
+# Compiled files
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Allure
+allure-results/
+allure-report/
+
+# Playwright
+playwright/.cache/
+traces/clea
+
+# Environment specific
+*.env
+local.properties
+
+# Test output
+test-output/
+screenshots/
