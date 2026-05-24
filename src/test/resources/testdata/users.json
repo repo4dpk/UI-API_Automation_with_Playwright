@@ -1,0 +1,25 @@
+{
+    "validUser": {
+        "email": "testuser@example.com",
+        "password": "Test@1234",
+        "name": "Test User"
+    },
+    "invalidUser": {
+        "email": "invalid@example.com",
+        "password": "WrongPassword123",
+        "name": "Invalid User"
+    },
+    "lockedUser": {
+        "email": "locked@example.com",
+        "password": "Locked@1234",
+        "name": "Locked User"
+    },
+    "newUser": {
+        "email": "newuser@example.com",
+        "password": "NewUser@1234",
+        "name": "New User",
+        "firstName": "New",
+        "lastName": "User",
+        "telephone": "1234567890"
+    }
+}
