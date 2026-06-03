@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- Dependency Versions -->
-        <playwright.version>1.44.0</playwright.version>
+        <playwright.version>1.54.0</playwright.version>
         <cucumber.version>7.18.0</cucumber.version>
         <allure.version>2.27.0</allure.version>
         <allure-cucumber.version>2.27.0</allure-cucumber.version>
@@ -76,14 +76,19 @@
             <artifactId>playwright</artifactId>
             <version>${playwright.version}</version>
         </dependency>
-        <!-- Source: https://mvnrepository.com/artifact/io.github.uchagani/allure-playwright-java -->
         <dependency>
-            <groupId>io.github.uchagani</groupId>
-            <artifactId>allure-playwright-java</artifactId>
-            <version>1.1.0</version>
-            <scope>compile</scope>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-cucumber7-jvm</artifactId>
+            <version>2.27.0</version>
+            <scope>test</scope>
         </dependency>
-        <!-- Cucumber Dependencies -->
+
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-junit-platform</artifactId>
+            <version>2.27.0</version>
+            <scope>test</scope>
+        </dependency>
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>

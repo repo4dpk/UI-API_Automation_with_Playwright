@@ -60,7 +60,9 @@ public class PlaywrightFactory {
                 browser = playwright.chromium().launch(launchOptions);
             }
             case "firefox" -> {
-                browser = playwright.firefox().launch(launchOptions);
+                browser = browser = playwright.chromium().launch(
+                        new BrowserType.LaunchOptions()
+                                .setHeadless(true));
             }
             case "webkit", "safari" -> {
                 browser = playwright.webkit().launch(launchOptions);
