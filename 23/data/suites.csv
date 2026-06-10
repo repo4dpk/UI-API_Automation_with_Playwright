@@ -1,0 +1,37 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","5510","Successful login with valid credentials","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Successful login with valid credentials",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","454","API login fails with missing email","","2026-06-10","passed","2026-06-10","","Customer Login - API Tests","API login fails with missing email",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","530","API login fails with missing password","","2026-06-10","passed","2026-06-10","","Customer Login - API Tests","API login fails with missing password",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","4980","Successful login using test data file","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Successful login using test data file",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","3769","Login page elements are displayed correctly","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Login page elements are displayed correctly",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","4064","Login fails with various invalid inputs","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","539","API login fails with invalid credentials","","2026-06-10","passed","2026-06-10","","Customer Login - API Tests","API login fails with invalid credentials",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","4106","Login fails with various invalid inputs","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","4081","Login fails with various invalid inputs","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","16357","Successful API login returns token","","2026-06-10","passed","2026-06-10","","Customer Login - API Tests","Successful API login returns token",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","4086","Login fails with invalid credentials","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Login fails with invalid credentials",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","4614","Login fails with various invalid inputs","","2026-06-10","passed","2026-06-10","","Customer Login - UI Tests","Login fails with various invalid inputs",""
