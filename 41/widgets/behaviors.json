@@ -1,1 +1,0 @@
-{"total":2,"items":[{"uid":"5203e0d7e213108b79aace13f6ab9eaf","name":"Customer Login - UI Tests","statistic":{"failed":0,"broken":5,"skipped":0,"passed":0,"unknown":0,"total":5}},{"uid":"638bc428b6d2e78f5a2c4e37dc0410af","name":"Customer Login - API Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
