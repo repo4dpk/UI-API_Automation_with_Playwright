@@ -1,0 +1,37 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","91399","Successful login with valid credentials","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Successful login with valid credentials",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","523","API login fails with missing email","","2026-09-01","passed","2026-09-01","","Customer Login - API Tests","API login fails with missing email",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90482","Login fails with various invalid inputs","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90470","Login fails with various invalid inputs","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90496","Login page elements are displayed correctly","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Login page elements are displayed correctly",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90483","Login fails with various invalid inputs","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","14898","Successful API login returns token","","2026-09-01","passed","2026-09-01","","Customer Login - API Tests","Successful API login returns token",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","480","API login fails with missing password","","2026-09-01","passed","2026-09-01","","Customer Login - API Tests","API login fails with missing password",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90476","Successful login using test data file","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Successful login using test data file",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90490","Login fails with various invalid inputs","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Login fails with various invalid inputs",""
+"    As an API consumer
+    I want to authenticate via the login API endpoint
+    So that I can receive a valid token for subsequent API calls","536","API login fails with invalid credentials","","2026-09-01","passed","2026-09-01","","Customer Login - API Tests","API login fails with invalid credentials",""
+"    As a registered customer of the E-Commerce platform
+    I want to be able to log in to my account
+    So that I can access my account dashboard and manage my orders","90471","Login fails with invalid credentials","","2026-09-01","broken","2026-09-01","","Customer Login - UI Tests","Login fails with invalid credentials",""
